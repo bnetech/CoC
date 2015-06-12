@@ -16,7 +16,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 [This code of conduct is adapted from [Conference Code of Conduct](http://confcodeofconduct.com) under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US), additional content adapted from the [Gopher Academy Slack Code of Conduct](https://docs.google.com/document/d/1YO_xIZPhD1OsquKdCuAq-fFECs8b37wfhVRfnx3DjzM/edit)]
 
-# Administrators
+# Moderators
 
 If you have any issues or need help, please feel free to reach out to any of the moderators on http://join.bnete.ch/
 
